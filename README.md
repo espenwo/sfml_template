@@ -1,0 +1,1 @@
+## Initial SFML application layout
